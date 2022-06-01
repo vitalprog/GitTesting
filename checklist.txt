@@ -1,0 +1,9 @@
+Basic QA checklist
+
+Animation
+Backup image
+Border
+Close button
+Dimensions
+Exits, Counters, and Timers
+Expanding
